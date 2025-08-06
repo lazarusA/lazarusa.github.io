@@ -1,0 +1,230 @@
+1:"$Sreact.fragment"
+2:I[3574,["506","static/chunks/f97e080b-c4618b4d4473260d.js","711","static/chunks/8e1d74a4-72e2f02358643b6f.js","520","static/chunks/e34aaff9-92a30f38e4b024d5.js","479","static/chunks/795d4814-fbc105f6ff820fee.js","87","static/chunks/0e762574-6a9908d6e7cbc5c6.js","512","static/chunks/9c4e2130-683e6af79b206a2e.js","760","static/chunks/f7333993-14d41fe056e4cfff.js","672","static/chunks/385cb88d-54340d82c7aab490.js","446","static/chunks/53c13509-eb29fb85f211e28f.js","857","static/chunks/857-2b1977b557078e8b.js","575","static/chunks/575-9903ca55f3ed330c.js","754","static/chunks/754-f3c7dc3b3f5390e9.js","173","static/chunks/173-5cdc899191d45290.js","177","static/chunks/app/layout-e085547c53c21f1c.js"],"Providers"]
+3:I[2437,["506","static/chunks/f97e080b-c4618b4d4473260d.js","711","static/chunks/8e1d74a4-72e2f02358643b6f.js","520","static/chunks/e34aaff9-92a30f38e4b024d5.js","479","static/chunks/795d4814-fbc105f6ff820fee.js","87","static/chunks/0e762574-6a9908d6e7cbc5c6.js","512","static/chunks/9c4e2130-683e6af79b206a2e.js","760","static/chunks/f7333993-14d41fe056e4cfff.js","672","static/chunks/385cb88d-54340d82c7aab490.js","446","static/chunks/53c13509-eb29fb85f211e28f.js","857","static/chunks/857-2b1977b557078e8b.js","575","static/chunks/575-9903ca55f3ed330c.js","754","static/chunks/754-f3c7dc3b3f5390e9.js","173","static/chunks/173-5cdc899191d45290.js","177","static/chunks/app/layout-e085547c53c21f1c.js"],"Navbar"]
+4:I[7555,[],""]
+5:I[6678,["39","static/chunks/app/error-4d7f633dc435bfd5.js"],"default"]
+6:I[1295,[],""]
+c:I[8393,[],""]
+:HL["/_next/static/media/c97d4358b5ad6f1f-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/8cfbd1b8a0cbf5f0.css","style"]
+:HL["/_next/static/css/a70d561fad5d5dba.css","style"]
+0:{"P":null,"b":"YIXHxg6vSqgDo6u1G6Y63","p":"","c":["","research"],"i":false,"f":[[["",{"children":["research",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/8cfbd1b8a0cbf5f0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/a70d561fad5d5dba.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"suppressHydrationWarning":true,"lang":"en","children":[["$","head",null,{}],["$","body",null,{"className":"min-h-screen text-foreground bg-background font-sans antialiased __variable_e8ce0c","children":["$","$L2",null,{"themeProps":{"attribute":"class","defaultTheme":"dark"},"children":["$","div",null,{"className":"relative flex flex-col h-screen","children":[["$","$L3",null,{}],["$","main",null,{"className":"container mx-auto max-w-7xl pt-16 px-6 flex-grow","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full flex text-[13px] items-center gap-2 justify-center py-12 sm:py-3","children":[["$","span",null,{"className":"text-gray-500","children":"Copyright © 2025"}],["$","p",null,{"className":"text-gray-400","children":"Lázaro Alonso."}]]}]]}]}]}]]}]]}],{"children":["research",["$","$1","c",{"children":[null,["$","section",null,{"className":"max-w-6xl mx-auto px-2 sm:px-8","children":["$","div",null,{"className":"inline-block","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"children":[["$","div",null,{"className":"flex flex-col md:flex-row justify-between items-start gap-8","children":[["$","div",null,{"className":"flex flex-col flex-1 max-w-2xl","children":[["$","h1",null,{"className":"tracking-tight inline font-semibold text-[2.3rem] lg:text-5xl","children":"Research"}],["$","p",null,{"className":"mt-2","children":["My research focuses on developing hybrid modeling frameworks that integrate process-based models with machine learning to bridge spatial and temporal scales in land surface processes. I currently focus on ecosystem respiration, combining mechanistic insights from biogeochemistry with data-driven methods to link local observations to regional patterns.",["$","br",null,{}],"I am also interested in the intersection of complex systems, graph neural networks, and time series analysis."]}]]}],["$","div",null,{"className":"flex flex-col max-w-[350px] items-start flex-shrink-0 gap-2 mt-1 md:mt-0","children":[["$","strong",null,{"className":"text-yellow-500","children":"Areas of focus"}],["$","ul",null,{"className":"list-disc space-y-1 py-2","children":[["$","li",null,{"children":"Hybrid modelling"}],["$","li",null,{"children":"Model development in Julia"}],["$","li",null,{"children":"Data Cubes"}],["$","li",null,{"children":"Handling petabyte-scale data—no memory issues!"}],["$","li",null,{"children":"Visual Analytics"}],"$L7"]}]]}]]}],"$L8","$L9"]}],null,"$La"]}],{},null,false]},null,false]},null,false],"$Lb",false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[6661,["857","static/chunks/857-2b1977b557078e8b.js","336","static/chunks/336-0da08e124c993cdc.js","322","static/chunks/app/research/page-9072c2dc096e7d23.js"],"Button"]
+e:I[6591,["857","static/chunks/857-2b1977b557078e8b.js","336","static/chunks/336-0da08e124c993cdc.js","322","static/chunks/app/research/page-9072c2dc096e7d23.js"],"default"]
+10:I[9665,[],"OutletBoundary"]
+12:I[4911,[],"AsyncMetadataOutlet"]
+14:I[9665,[],"ViewportBoundary"]
+16:I[9665,[],"MetadataBoundary"]
+17:"$Sreact.suspense"
+7:["$","li",null,{"children":"Chaos*"}]
+8:["$","div",null,{"className":"flex flex-warp py-4","children":["$","$Ld",null,{"size":"md","className":"bg-linear-to-tr from-pink-500 to-blue-500 text-white shadow-lg","children":"Publications"}]}]
+f:T4712,---
+---
+@article{POEHLS2025132624,
+title = {Downscaling soil moisture to sub-km resolutions with simple machine learning ensembles},
+journal = {Journal of Hydrology},
+volume = {652},
+pages = {132624},
+year = {2025},
+issn = {0022-1694},
+doi = {https://doi.org/10.1016/j.jhydrol.2024.132624},
+pdf = {https://doi.org/10.1016/j.jhydrol.2024.132624},
+url = {https://www.sciencedirect.com/science/article/pii/S0022169424020201},
+author = {Jeran Poehls and Lazaro Alonso and Sujan Koirala and Markus Reichstein and Nuno Carvalhais},
+keywords = {Ensemble, Soil moisture, Remote sensing, Downscaling, SMAP},
+abstract = {Soil moisture is a key factor that influences the productivity and energy balance of ecosystems and biomes. Global soil moisture measurements have coarse native resolutions of 36km and infrequent revisits of around three days. However, these limitations are not present for many variables connected to soil moisture such as land surface temperature and evapotranspiration. For this reason many previous studies have aimed to discern the relationships between these higher resolution variables and soil moisture to produce downscaled soil moisture products. In this study, we test four ensemble machine learning models for this downscaling task. These models use a dataset of over 1,000 sites across the US to predict soil moisture at sub-km scales. We find that all models, particularly one with a very simple structure, can outperform Soil Moisture Active Passive (SMAP) measurements on a cross-fold analysis of the 1,000+ sites. This model has an average ubRMSE of 0.058 vs SMAPs 0.065 and an average R of 0.638 vs SMAPs 0.562. Not all ensembles are beneficial, with some architectures performing better with different training weights than with ensemble averaging. However, some ensembles capture more of the land surface characteristics than ensemble members. Lastly, although general improvements over SMAP are observed, there appears to be difficulty in consistently doing so in cropland regions with high clay and low sand content.}
+}
+
+@Article{Karasante2025,
+author={Karasante, Ilektra and Alonso, Lazaro and Prapas, Ioannis and Ahuja, Akanksha and Carvalhais, Nuno and Papoutsis, Ioannis},
+title={SeasFire cube - a multivariate dataset for global wildfire modeling},
+journal={Scientific Data},
+year={2025},
+month={Mar},
+day={03},
+volume={12},
+number={1},
+pages={368},
+abstract={Frequent, large-scale wildfires threaten ecosystems and human livelihoods globally. To effectively quantify and attribute the antecedent conditions for wildfires, a thorough understanding of Earth system dynamics is imperative. In response, we introduce the SeasFire datacube, a meticulously curated spatiotemporal dataset tailored for global sub-seasonal to seasonal wildfire modeling via Earth observation. The SeasFire datacube consists of 59 variables including climate, vegetation, oceanic indices, and human factors. It offers 8-day temporal resolution, 0.25{	extdegree} spatial resolution, and covers the period from 2001 to 2021. We showcase the versatility of SeasFire for exploring the variability and seasonality of wildfire drivers, modeling causal links between ocean-climate teleconnections and wildfires, and predicting sub-seasonal wildfire patterns across multiple timescales with a Deep Learning model. We have publicly released the SeasFire datacube and appeal to Earth system scientists and Machine Learning practitioners to use it for an improved understanding and anticipation of wildfires.},
+issn={2052-4463},
+doi={10.1038/s41597-025-04546-3},
+url={https://doi.org/10.1038/s41597-025-04546-3}
+pdf = {https://doi.org/10.1038/s41597-025-04546-3}
+}
+
+@Article{isprs-archives-XLVIII-4-W12-2024-89-2024,
+author = {Martinuzzi, F. and Mahecha, M. D. and Montero, D. and Alonso, L. and Mora, K.},
+title = {SpectralIndices.jl: Streamlining spectral indices access and computation for Earth system research},
+journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+volume = {XLVIII-4/W12-2024},
+year = {2024},
+pages = {89--95},
+url = {https://isprs-archives.copernicus.org/articles/XLVIII-4-W12-2024/89/2024/},
+doi = {10.5194/isprs-archives-XLVIII-4-W12-2024-89-2024}
+code = {https://github.com/awesome-spectral-indices/SpectralIndices.jl}
+}
+@article{benson2024multimodal,
+      abbr = {CVPR},
+      title={Multi-modal Learning for Geospatial Vegetation Forecasting}, 
+      author={Benson, Vitus and Robin, Claire and Requena-Mesa, Christian and Alonso, Lazaro and Carvalhais, Nuno and Cort{'e}s, Jos{'e} and Gao, Zhihan and Linscheid, Nora and Weynants, M{'e}lanie and Reichstein, Markus},
+      year={2024},
+      month = {June},
+      pages = {27788-27799},
+      journal = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+      pdf={https://openaccess.thecvf.com/content/CVPR2024/html/Benson_Multi-modal_Learning_for_Geospatial_Vegetation_Forecasting_CVPR_2024_paper.html},
+      bibtex_show={true},
+      selected={true},
+      preview = {benson_cvpr_2024.gif},
+      code={https://github.com/vitusbenson/greenearthnet},
+}
+      @article{https://doi.org/10.1029/2023MS003710,
+author = {Son, Rackhun and Stacke, Tobias and Gayler, Veronika and Nabel, Julia E. M. S. and Schnur, Reiner and Alonso, Lazaro and Requena-Mesa, Christian and Winkler, Alexander J. and Hantson, Stijn and Zaehle, Sönke and Weber, Ulrich and Carvalhais, Nuno},
+title = {Integration of a Deep-Learning-Based Fire Model Into a Global Land Surface Model},
+journal = {Journal of Advances in Modeling Earth Systems},
+volume = {16},
+number = {1},
+pages = {e2023MS003710},
+keywords = {fire, deep learning, hybrid modeling, DGVM},
+doi = {https://doi.org/10.1029/2023MS003710},
+pdf = {https://doi.org/10.1029/2023MS003710}
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023MS003710},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023MS003710},
+note = {e2023MS003710 2023MS003710},
+abstract = {Abstract Fire is a crucial factor in terrestrial ecosystems playing a role in disturbance for vegetation dynamics. Process-based fire models quantify fire disturbance effects in stand-alone dynamic global vegetation models (DGVMs) and their advances have incorporated both descriptions of natural processes and anthropogenic drivers. Nevertheless, these models show limited skill in modeling fire events at the global scale, due to stochastic characteristics of fire occurrence and behavior as well as the limits in empirical parameterizations in process-based models. As an alternative, machine learning has shown the capability of providing robust diagnostics of fire regimes. Here, we develop a deep-learning-based fire model (DL-fire) to estimate daily burnt area fraction at the global scale and couple it within JSBACH4, the land surface model used in the ICON-ESM. The stand-alone DL-fire model forced with meteorological, terrestrial and socio-economic variables is able to simulate global total burnt area, showing 0.8 of monthly correlation (rm) with GFED4 during the evaluation period (2011–2015). The performance remains similar with the hybrid modeling approach JSB4-DL-fire (rm = 0.79) outperforming the currently used uncalibrated standard fire model in JSBACH4 (rm = −0.07). We further quantify the importance of each predictor by applying layer-wise relevance propagation (LRP). Overall, land properties, such as fuel amount and water content in soil layers, stand out as the major factors determining burnt fraction in DL-fire, paralleled by meteorological conditions over tropical and high latitude regions. Our study demonstrates the potential of hybrid modeling in advancing fire prediction in ESMs by integrating deep learning approaches in physics-based dynamical models.},
+year = {2024}
+}
+@article{https://doi.org/10.1029/2022MS003464,
+author = {Bao, Shanning and Alonso, Lazaro and Wang, Siyuan and Gensheimer, Johannes and De, Ranit and Carvalhais, Nuno},
+title = {Toward Robust Parameterizations in Ecosystem-Level Photosynthesis Models},
+journal = {Journal of Advances in Modeling Earth Systems},
+volume = {15},
+number = {8},
+pages = {e2022MS003464},
+keywords = {parameter extrapolation, parameterization, ecosystem properties, hybrid model, feature importance, vegetation productivity},
+doi = {https://doi.org/10.1029/2022MS003464},
+pdf= {https://doi.org/10.1029/2022MS003464}
+url = {https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2022MS003464},
+eprint = {https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022MS003464},
+note = {e2022MS003464 2022MS003464},
+abstract = {Abstract In a model simulating dynamics of a system, parameters can represent system sensitivities and unresolved processes, therefore affecting model accuracy and uncertainty. Taking a light use efficiency (LUE) model as an example, which is a typical approach for estimating gross primary productivity (GPP), we propose a Simultaneous Parameter Inversion and Extrapolation approach (SPIE) to overcome issues stemming from plant-functional-type (PFT)-dependent parameterizations. SPIE refers to predicting model parameters using an artificial neural network based on collected variables, including PFT, climate types, bioclimatic variables, vegetation features, atmospheric nitrogen and phosphorus deposition, and soil properties. The neural network was optimized to minimize GPP errors and constrain LUE model sensitivity functions. We compared SPIE with 11 typical parameter extrapolating methods, including PFT- and climate-specific parameterizations, global and PFT-based parameter optimization, site-similarity, and regression approaches. All methods were assessed using Nash-Sutcliffe model efficiency (NSE), determination coefficient and normalized root mean squared error, and contrasted with site-specific calibrations. Ten-fold cross-validated results showed that SPIE had the best performance across sites, various temporal scales and assessing metrics. Taking site-level calibrations as a benchmark (NSE = 0.95), SPIE performed with an NSE of 0.68, while all the other investigated approaches showed lower NSE. The Shapley value, layer-wise relevance and partial dependence showed that vegetation features, bioclimatic variables, soil properties and some PFTs determine parameters. SPIE overcomes strong limitations observed in many standard parameterization methods. We argue that expanding SPIE to other models overcomes current limits and serves as an entry point to investigate the robustness and generalization of different models.},
+year = {2023}
+}
+@article{robin.etal_2022,
+  title = {Learning to Forecast Vegetation Greenness at Fine Resolution over {{Africa}} with {{ConvLSTMs}}},
+  author = {Robin, Claire and Requena-Mesa, Christian and Benson, Vitus and Alonso, Lazaro and Poehls, Jeran and Carvalhais, Nuno and Reichstein, Markus},
+  year = {2022},
+  month = dec,
+  journal = {NeurIPS Workshop Tackling {{Climate Change}} with {{Machine Learning}}},
+}
+@article{alonso2022seasfire,
+  title={Seasfire cube: A global dataset for seasonal fire modeling in the earth system},
+  author={Alonso, Lazaro and Gans, F and Karasante, I and Ahuja, A and Prapas, I and Kondylatos, S and Papoutsis, I and Panagiotou, E and Mihail, D and Cremer, F and others},
+  journal={Zenodo: Geneva, Switzerland},
+  year={2022}
+  code ={https://zenodo.org/records/13834057}
+}
+@ARTICLE{Giri2021-tr,
+  title     = "Perspectives for analyzing non-linear photo-ionization spectra
+               with deep neural networks trained with synthetic Hamilton
+               matrices",
+  author    = "Giri, Sajal Kumar and Alonso, Lazaro and Saalmann, Ulf and Rost,
+               Jan Michael",
+  abstract  = "We have constructed deep neural networks, which can map
+               fluctuating photo-electron spectra obtained from noisy pulses to
+               spectra from noise-free pulses. The network is trained on
+               spectra from noisy pulses in combination with random Hamilton
+               matrices, representing systems which could exist but do not
+               necessarily exist. In [Giri et al., Phys. Rev. Lett., 2020, 124,
+               113201] we performed a purification of fluctuating spectra, that
+               is, mapping them to those from Fourier-limited Gaussian pulses.
+               Here, we investigate the performance of such
+               neural-network-based maps for predicting spectra of double
+               pulses, pulses with a chirp and even partially-coherent pulses
+               from fluctuating spectra generated by noisy pulses. Secondly, we
+               demonstrate that along with purification of a fluctuating
+               double-pulse spectrum, one can estimate the time-delay of the
+               underlying double pulse, an attractive feature for single-shot
+               spectra from SASE FELs. We demonstrate our approach with
+               resonant two-photon ionization, a non-linear process, sensitive
+               to details of the laser pulse.",
+  journal   = "Faraday Discuss.",
+  publisher = "Royal Society of Chemistry (RSC)",
+  volume    =  228,
+  number    =  0,
+  pages     = "502--518",
+  month     =  may,
+  year      =  2021,
+  copyright = "http://creativecommons.org/licenses/by/3.0/",
+  language  = "en"
+  pdf = {https://pubs.rsc.org/en/content/articlepdf/2021/fd/d0fd00117a}
+}
+
+@article{PhysRevE.100.062309,
+  title = {Geometrical and spectral study of β-skeleton graphs},
+  author = {Alonso, L. and M{'e}ndez-Berm{'u}dez, J. A. and Estrada, Ernesto},
+  journal = {Phys. Rev. E},
+  volume = {100},
+  issue = {6},
+  pages = {062309},
+  numpages = {8},
+  year = {2019},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.100.062309},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.100.062309}
+}
+@article{10.1093/comnet/cnx053,
+    author = {Alonso, L and Méndez-Bermúdez, J A and González-Meléndrez, A and Moreno, Yamir},
+    title = {Weighted random-geometric and random-rectangular graphs: spectral and eigenfunction properties of the adjacency matrix},
+    journal = {Journal of Complex Networks},
+    volume = {6},
+    number = {5},
+    pages = {753-766},
+    year = {2017},
+    month = {10},
+    abstract = {Within a random-matrix theory approach, we use the nearest-neighbour energy-level spacing distribution $P(s)$ and the entropic eigenfunction localization length $\ell$ to study spectral and eigenfunction properties (of adjacency matrices) of weighted random-geometric and random-rectangular graphs. A random-geometric graph (RGG) considers a set of vertices uniformly and independently distributed on the unit square, while for a random-rectangular graph (RRG) the embedding geometry is a rectangle. The RRG model depends on three parameters: The rectangle side lengths $a$ and $1/a$, the connection radius $r$ and the number of vertices $N$. We then study in detail the case $a=1$, which corresponds to weighted RGGs and explore weighted RRGs characterized by $a\sim 1$, that is, two-dimensional geometries, but also approach the limit of quasi-one-dimensional wires when $a\gg1$. In general, we look for the scaling properties of $P(s)$ and $\ell$ as a function of $a$, $r$ and $N$. We find that the ratio $r/N^\gamma$, with $\gamma(a)\approx -1/2$, fixes the properties of both RGGs and RRGs. Moreover, when $a\ge 10$ we show that spectral and eigenfunction properties of weighted RRGs are universal for the fixed ratio $r/\mathcal{C}N^\gamma$, with $\mathcal{C}(a)\approx a$.},
+    issn = {2051-1329},
+    doi = {10.1093/comnet/cnx053},
+    url = {https://doi.org/10.1093/comnet/cnx053},
+    eprint = {https://academic.oup.com/comnet/article-pdf/6/5/753/26058925/cnx053.pdf},
+}
+@Article{Gera2018,
+author={Gera, Ralucca and Alonso, L. and Crawford, Brian and House, Jeffrey and Mendez-Bermudez, J. A. and Knuth, Thomas and Miller, Ryan},
+title={Identifying network structure similarity using spectral graph theory},
+journal={Applied Network Science},
+year={2018},
+month={Jan},
+day={31},
+volume={3},
+number={1},
+pages={2},
+abstract={Most real networks are too large or they are not available for real time analysis. Therefore, in practice, decisions are made based on partial information about the ground truth network. It is of great interest to have metrics to determine if an inferred network (the partial information network) is similar to the ground truth. In this paper we develop a test for similarity between the inferred and the true network. Our research utilizes a network visualization tool, which systematically discovers a network, producing a sequence of snapshots of the network. We introduce and test our metric on the consecutive snapshots of a network, and against the ground truth.},
+issn = {2364-8228},
+doi = {10.1007/s41109-017-0042-3},
+url= {https://doi.org/10.1007/s41109-017-0042-3}
+pdf ={https://doi.org/10.1007/s41109-017-0042-3}
+}
+@article{Alonso_2016,
+doi = {10.1088/1751-8113/49/14/145004},
+url = {https://dx.doi.org/10.1088/1751-8113/49/14/145004},
+year = {2016},
+month = {feb},
+publisher = {IOP Publishing},
+volume = {49},
+number = {14},
+pages = {145004},
+author = {Alonso, L and Gorin, T},
+title = {Joint probability distributions for projection probabilities of random orthonormal states},
+journal = {Journal of Physics A: Mathematical and Theoretical},
+abstract = {The quantum chaos conjecture applied to a finite dimensional quantum system implies that such a system has eigenstates that show similar statistical properties as the column vectors of random orthogonal or unitary matrices. Here, we consider the different probabilities for obtaining a specific outcome in a projective measurement, provided the system is in one of its eigenstates. We then give analytic expressions for the joint probability density for these probabilities, with respect to the ensemble of random matrices. In the case of the unitary group, our results can be applied, also, to the phenomenon of universal conductance fluctuations, where the same mathematical quantities describe partial conductances in a two-terminal mesoscopic scattering problem with a finite number of modes in each terminal.}
+}
+
+9:["$","$Le",null,{"bibData":"$f"}]
+a:["$","$L10",null,{"children":["$L11",["$","$L12",null,{"promise":"$@13"}]]}]
+b:["$","$1","h",{"children":[null,[["$","$L14",null,{"children":"$L15"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L16",null,{"children":["$","div",null,{"hidden":true,"children":["$","$17",null,{"fallback":null,"children":"$L18"}]}]}]]}]
+15:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","media":"(prefers-color-scheme: light)","content":"white"}],["$","meta","3",{"name":"theme-color","media":"(prefers-color-scheme: dark)","content":"black"}]]
+11:null
+19:I[8175,[],"IconMark"]
+13:{"metadata":[["$","title","0",{"children":"Lazaro"}],["$","meta","1",{"name":"description","content":"Lazaro Alonso"}],["$","link","2",{"rel":"icon","href":"/favicon.ico"}],["$","$L19","3",{}]],"error":null,"digest":"$undefined"}
+18:"$13:metadata"
